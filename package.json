@@ -1,0 +1,16 @@
+{
+  "name": "cypress_challenge",
+  "version": "1.0.0",
+  "dependencies": {},
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "npx cypress open",
+    "cypress:run": "npx cypress run"
+  },
+  "author": "Dmitrii Kuzhilin",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
